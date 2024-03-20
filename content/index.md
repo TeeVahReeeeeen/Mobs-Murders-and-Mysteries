@@ -6,18 +6,6 @@ This is the wikipedia for Jemima's Mobs, Murders, and Mysteries campaign.
 
 # Links
 
-- **NPCs**
-	- *Good*
-		- [[Gnomes of the Knolls]]
-		- [[Haymitch]]
-		- [[Tabatha]]
-		- [[Ulzajahr (Youie)]]
-	- *Bad*
-		- [[Circus bodyguard]]
-		- [[Marvelous]]
-		- [[Triggerman]]
-	- *Ugly (neutral)*
-		- [[Unimportant NPCs]]
 - **Player Characters**
 	- [[Donovan Clay]]
 	- [[Krugar Thawl]]
@@ -33,6 +21,19 @@ This is the wikipedia for Jemima's Mobs, Murders, and Mysteries campaign.
 	- [[Lore titbits]]
 	- [[Travelling Circus]]
 	- [[World Map]]
+- **NPCs**
+	- *Good*
+		- [[Gnomes of the Knolls]]
+		- [[Haymitch]]
+		- [[Tabatha]]
+		- [[Ulzajahr (Youie)]]
+	- *Bad*
+		- [[Circus bodyguard]]
+		- [[Marvelous]]
+		- [[Triggerman]]
+	- *Ugly (neutral)*
+		- [[Unimportant NPCs]]
+
 
 Everything is a work in progress, and will hopefully be updated as play continues.
 
