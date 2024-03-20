@@ -6,7 +6,7 @@ Half-orc gradually replacing his body with machine to become a "cyborc"
 
 Metal arm and glass eye are the main replacements so far
 
-From Riverock, a town in Lagoon Hold
+From [[Lagoon Hold#Riverock|Riverock]], a town in [[Lagoon Hold]]
 
 # Personal Quests
 
