@@ -1,0 +1,2 @@
+- All [[Marshes of McMournful|marshes]] were created by Marsh McMournful, and are named after her
+- Magic was free once and gods were more free with their power
