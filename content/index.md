@@ -6,12 +6,18 @@ This is the wikipedia for Jemima's Mobs, Murders, and Mysteries campaign.
 
 # Links
 
+[[Plot]]
+
 - **Player Characters**
 	- [[Donovan Clay]]
+![[DC headshot.png]]
 	- [[Krugar Thawl]]
+![[KT headshot.png]]
 	- [[Shagworth Boombastic]]
+![[SB headshot.png]]
 - **World**
 	- *Locations*\*
+![[MMM map (with borders).jpg]]
 		- [[Craggaurd]]
 		- [[Drypond Desert]]
 		- [[Feywilds]]
@@ -20,6 +26,7 @@ This is the wikipedia for Jemima's Mobs, Murders, and Mysteries campaign.
 		- [[West Elm]]
 	- [[Lore titbits]]
 	- [[Travelling Circus]]
+![[Pasted image 20240313193309.png]]
 	- [[World Map]]
 - **NPCs**
 	- *Good*
