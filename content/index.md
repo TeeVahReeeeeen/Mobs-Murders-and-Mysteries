@@ -3,18 +3,16 @@ title: Mobs, Murders, and Mysteries
 ---
 
 This is the wikipedia for Jemima's Mobs, Murders, and Mysteries campaign. 
-
+![[the gang.png]]
 # Links
 
 [[Plot]]
 
 - **Player Characters**
 	- [[Donovan Clay]]
-![[DC headshot.png]]
 	- [[Krugar Thawl]]
-![[KT headshot.png]]
 	- [[Shagworth Boombastic]]
-![[SB headshot.png]]
+
 - **World**
 	- *Locations*\*
 ![[MMM map (with borders).jpg]]

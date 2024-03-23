@@ -12,6 +12,10 @@
 
 
 # Party goals
+- [x] Meet up with [[Tabatha]]
+- [x] Follow the [[Travelling Circus]]
+	\*Interrupted
+- [x] Find the [[Gnomes of the Knolls]]
 - [ ] Restore magic to the world
 	- [ ] Thwart the [[travelling circus]]/shady elves
 		- [ ] Train with the [[Gnomes of the Knolls]]
